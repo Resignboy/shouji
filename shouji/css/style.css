@@ -1,0 +1,213 @@
+*{
+	margin: 0 auto;
+	list-style: none;
+}
+body{
+	background-color: #E8E8E8;
+}
+.head_1{
+	float: left;
+}
+.head_2{
+	float: right;
+}
+.wrapper{
+	width: 14.75rem;
+	margin: 0 auto;
+}
+.head_3{
+	width: 100%;
+	height: 5.35rem;
+	background-color: #38474F;
+	border-radius: 0.2rem;
+}
+.head_3 span{
+	color: #fff;
+	font-size: 0.6rem;
+	margin-left: 1.125rem;
+}
+.head_30 button{
+	width: 7.175rem;
+	height: 1.575rem;
+	background-color: #2D3A40;
+	color: #fff;
+	border-radius: 0.2rem;
+	border: 0;
+	margin-top: 0.95rem;
+}
+.head_30 button:nth-child(2){
+	background-color: #F6846A;
+	color: #fff;
+	border-radius: 0.2rem;
+}
+.ren{
+	width: 14.8rem;
+	height: 14.8rem;
+}
+.ren_1 img{
+	width: 14.925rem;
+	height: 11.825rem;	text-align: center;
+}
+.ren_1 h3{
+	font-size: 0.5rem;
+	float: left;
+	margin-top: 0.9rem;
+}
+.ren_2{
+	width: 3.6rem;
+	height: 1.675rem;
+	background-color: #BFBFC4;
+	float: right;
+	border-radius: 0.15rem;
+}
+.ren_2 p{
+	color: #fff;
+	font-size: 0.5rem;
+	text-align: center;
+	line-height: 1.675rem;
+}
+.jia{
+	width: 14.925rem;
+	height: 2.625rem;
+	background-color: #fff;
+	border: 0.2rem;
+}
+.jia i{
+	margin-left: 1.05rem;
+	line-height: 2.625rem;
+	display: block;
+	float: left;
+}
+.jia p{
+	margin-left: 1.1rem;
+	line-height: 2.625rem;
+	font-size: 0.5rem;
+	float: left;
+}
+.xia{
+	width: 14.925rem;
+	height: 12.875rem;
+	background-color: #fff;
+	margin-top: 0.75rem;
+}
+.xia_1 i{
+	text-align: center;
+	display: block;
+	font-size: 0.55rem;
+}
+.xia_1 p{
+	text-align: center;
+	font-size: 0.5rem;
+	color: #A6A6AD;
+}
+.xia_1 ul li{
+	width: 1.775rem;
+	height: 1.775rem;
+	background-color: #F0C9CE;
+	float: left;
+	text-align: center;
+	border-radius: 0.125rem;
+}
+.xia_1 ul{
+	margin-top: 0.9rem;
+	margin-left: 2.2rem;
+}
+.xia_1 ul li:nth-child(1){
+	margin-left: 2.15rem;
+	margin: 0.625rem;
+}
+.xia_1 ul li:nth-child(2){
+	background-color: #AF687A;
+	margin: 0.625rem;
+}
+.xia_1 ul li:nth-child(4){
+	margin: 0.625rem;
+}
+
+.xia_1 ul li:nth-child(3){
+	background-color: #87A6B2;
+	margin: 0.625rem;
+}
+.xia_2 img{
+	margin-left: 1.75rem;
+}
+.xia_1 ul:nth-child(2){
+	margin-left: 0.6rem;
+	margin: 0.625rem;
+}
+.xia ol li{
+	width: 1.775rem;
+	height: 1.775rem;
+	float: left;
+	background-color: #DADADE;
+	margin-left: 0.6rem;
+	text-align: center;
+	line-height: 1.775rem;
+	font-size: 0.3rem;
+	border-radius: 0.2rem;
+	margin-top: 0.9rem;
+}
+.xia ol li:nth-child(3){
+	background-color: #67B0D6;
+}
+.wei{
+	width: 7.075rem;
+	height: 1.65rem;
+	background-color: #87A6B2;
+	margin-top: 1.625rem;
+	border: 0.15rem;
+}
+.wei p{
+	font-size: 0.4rem;
+	color: #fff;
+	line-height: 1.65rem;
+	text-align: center;
+}
+.wan{
+	width: 14.75rem;
+	height: 0.45rem;
+	margin: 0 auto;
+	display: block;
+	margin-top: 1.75rem;
+}
+.wan h4{
+	height: 0.45rem;
+	width: 3.0rem;
+	font-size: 0.45rem;
+	float: left;
+	display: block;
+	vertical-align: middle;
+}
+.wan img{
+	width: 10.75rem;
+	height: 0.05rem;
+	float: right;
+	vertical-align: middle;
+	margin-top: 0.2rem;
+}
+.end{
+	width: 100%;
+	margin-top: 1.1rem;
+}
+.end ul{
+	width: 14.925rem;
+}
+.end ul li{
+	display: flex;
+	height: 2.0rem;
+	width: 33.3333%;
+	float: left;
+}
+.end ul li img{
+	width: 2.0rem;
+	height: 2.0rem;
+}
+.end ul li span{
+	width: 1.85rem;
+	height: 1.85rem;
+	background: url(../img/dui.png) no-repeat;
+	font-size: 0.3rem;
+	text-align: center;
+	line-height: 1.05rem;
+	margin-top: 0.4rem;
+}
